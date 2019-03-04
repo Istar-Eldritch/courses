@@ -1,0 +1,6 @@
+[package]
+name = "maximum_loot"
+version = "0.1.0"
+authors = ["Ruben Paz <me@ruben.io>"]
+
+[dependencies]

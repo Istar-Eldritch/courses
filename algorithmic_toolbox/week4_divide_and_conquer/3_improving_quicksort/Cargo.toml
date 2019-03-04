@@ -1,0 +1,7 @@
+[package]
+name = "improved_quicksort"
+version = "0.1.0"
+authors = ["Ruben Paz <me@ruben.io>"]
+
+[dependencies]
+rand = "0.5.5"
